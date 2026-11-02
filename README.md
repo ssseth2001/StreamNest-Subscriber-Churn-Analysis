@@ -6,7 +6,7 @@ An end-to-end churn analysis for a fictional streaming service: messy raw data c
 <img width="721" height="650" alt="dashboard" src="https://github.com/user-attachments/assets/76bebef8-1ad6-41d7-ac41-d8d07b568b3d" />
 
  
-**Interactive version:** download `` and open it in desktop Excel to use the slicers (Plan, Billing, Country, Signup source). Every KPI, chart, and table updates when you click a filter.
+**Interactive version:** download `[streamnest_Project.xlsx](streamnest_Project.xlsx)` and open it in desktop Excel to use the slicers (Plan, Billing, Country, Signup source). Every KPI, chart, and table updates when you click a filter.
  
 ---
  
@@ -102,7 +102,8 @@ Together these could bring churn from **50% to about 37%**.
  
 | File | Description |
 |---|---|
-| `streamnest_Project.xlsx` | Full workbook: cleaned data, Power Query steps, pivots, and the interactive dashboard |
-| `data/streamnest_subscribers.csv` | Raw subscriber data (messy) |
-| `data/streamnest_payments.csv` | Raw payment data (messy) |
-| `data/README_data_dictionary.txt` | Column descriptions |
+| [streamnest_Project.xlsx](streamnest_Project.xlsx) | Full workbook: cleaned data, Power Query steps, pivots, and the interactive dashboard |
+| [StreamNest_Cleaning_Log.xlsx](StreamNest_Cleaning_Log.xlsx) | Every cleaning step and how many rows it affected |
+| [data/streamnest_subscribers.csv](data/streamnest_subscribers.csv) | Raw subscriber data (messy) |
+| [data/streamnest_payments.csv](data/streamnest_payments.csv) | Raw payment data (messy) |
+| [data/README_data_dictionary.txt](data/README_data_dictionary.txt) | Column descriptions |
