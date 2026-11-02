@@ -6,7 +6,7 @@ An end-to-end churn analysis for a fictional streaming service: messy raw data c
 <img width="721" height="650" alt="dashboard" src="https://github.com/user-attachments/assets/76bebef8-1ad6-41d7-ac41-d8d07b568b3d" />
 
  
-**Interactive version:** **[⬇ Download the interactive dashboard (Excel)](streamnest_Project.xlsx?raw=true)** and open it in desktop Excel to use the slicers (Plan, Billing, Country, Signup source). Every KPI, chart, and table updates when you click a filter.
+**Interactive version: **[⬇ Download the interactive dashboard (Excel)](streamnest_Project.xlsx?raw=true)** and open it in desktop Excel to use the slicers (Plan, Billing, Country, Signup source). Every KPI, chart, and table updates when you click a filter.
  
 ---
  
