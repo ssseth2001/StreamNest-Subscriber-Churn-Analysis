@@ -97,3 +97,12 @@ Together these could bring churn from **50% to about 37%**.
 - The data shows *which* payment methods fail, not *why*. Payment processor decline codes would confirm the cause.
 - Country analysis covers existing customers only, not market size. Population, internet usage, and competitor pricing would be needed to size each market.
 - Content licensing costs are not in the data, so new content was not recommended without a cost-benefit check
+
+## Files
+ 
+| File | Description |
+|---|---|
+| `streamnest_Project.xlsx` | Full workbook: cleaned data, Power Query steps, pivots, and the interactive dashboard |
+| `data/streamnest_subscribers.csv` | Raw subscriber data (messy) |
+| `data/streamnest_payments.csv` | Raw payment data (messy) |
+| `data/README_data_dictionary.txt` | Column descriptions |
