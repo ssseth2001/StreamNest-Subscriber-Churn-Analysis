@@ -102,8 +102,5 @@ Together these could bring churn from **50% to about 37%**.
  
 | File | Description |
 |---|---|
-| [streamnest_Project.xlsx](streamnest_Project.xlsx) | Full workbook: cleaned data, Power Query steps, pivots, and the interactive dashboard |
-| [StreamNest_Cleaning_Log.xlsx](StreamNest_Cleaning_Log.xlsx) | Every cleaning step and how many rows it affected |
-| [data/streamnest_subscribers.csv](data/streamnest_subscribers.csv) | Raw subscriber data (messy) |
-| [data/streamnest_payments.csv](data/streamnest_payments.csv) | Raw payment data (messy) |
-| [data/README_data_dictionary.txt](data/README_data_dictionary.txt) | Column descriptions |
+| [streamnest_Project.xlsx](https://github.com/ssseth2001/StreamNest-Subscriber-Churn-Analysis/raw/main/streamnest_Project.xlsx) | Full workbook: cleaned data, Power Query steps, pivots, and the interactive dashboard (click to download) |
+| [StreamNest_Cleaning_Log.xlsx](https://github.com/ssseth2001/StreamNest-Subscriber-Churn-Analysis/raw/main/StreamNest_Cleaning_Log.xlsx) | Every cleaning step and how many rows it affected (click to download) |
