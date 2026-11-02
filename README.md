@@ -3,7 +3,8 @@ An end-to-end churn analysis for a fictional streaming service: messy raw data c
  
 > **Note:** StreamNest is a synthetic practice dataset (5,000 subscribers, 30,000+ payment attempts, Jan 2024 to Jun 2026). It was built to practice a full analytics workflow, so patterns are cleaner than real-world data.
  
-![Dashboard](dashboard.png)
+![Dashboard]<img width="721" height="657" alt="dashboard" src="https://github.com/user-attachments/assets/76bebef8-1ad6-41d7-ac41-d8d07b568b3d" />
+
  
 **Interactive version:** download `streamnest_Project.xlsx` and open it in desktop Excel to use the slicers (Plan, Billing, Country, Signup source). Every KPI, chart, and table updates when you click a filter.
  
